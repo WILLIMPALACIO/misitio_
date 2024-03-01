@@ -3,7 +3,7 @@ ul {
     padding: 0;
     overflow: hidden;
     list-style-type: none;
-    background-color: #a7a7a7;
+    background-color: #a0e0e0;
   }
   
   li {
@@ -18,11 +18,11 @@ ul {
   }
   
   li a:hover {
-    background-color: #cecece ;
+    background-color: #e6e6e6 ;
   }
   
   .activo {
-    background-color: #8d8d8d;
+    background-color: ;
   }
   
   .derecha {
@@ -32,7 +32,7 @@ ul {
   .miJumbo {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #000000;
+    background-color: #ffffff;
     border-radius: 0.5rem;
     text-align: center;
   }
@@ -40,7 +40,7 @@ ul {
   .miJumbo2 {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #858585;
+    background-color: #ffffff;
     border-radius: 0.5rem;
     text-align: center;
   }
